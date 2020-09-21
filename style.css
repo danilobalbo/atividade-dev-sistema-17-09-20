@@ -2,3 +2,9 @@ body.formatacao1{
     background-image: url("img1.jpg");
     background-size: 100%;
 }
+
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
